@@ -16,100 +16,12 @@
       "price": "410.00",
       "status": "3"
     },
-    "DMPZ|28543|20261120|RECLINER ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20261120",
-      "cat": "RECLINER ROWS",
-      "price": "399.00",
-      "status": "3"
-    },
-    "DMPZ|28543|20261120|PRIME PLUS SOFA ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS SOFA ROWS",
-      "price": "299.00",
-      "status": "3"
-    },
-    "DMPZ|28543|20261120|PRIME ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
-    "DMPZ|28543|20261120|CLASSIC ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
-    "DMPZ|28543|20261120|PRIME PLUS ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "08:00 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
-    "DMPZ|28539|20261120|RECLINER ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "RECLINER ROWS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "DMPZ|28539|20261120|PRIME PLUS SOFA ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS SOFA ROWS",
-      "price": "270.00",
-      "status": "3"
-    },
-    "DMPZ|28539|20261120|PRIME PLUS ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "DMPZ|28539|20261120|PICTURE PERFECT": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "220.00",
-      "status": "3"
-    },
-    "DMPZ|28539|20261120|PRIME ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "210.00",
-      "status": "3"
-    },
-    "DMPZ|28539|20261120|CLASSIC ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
     "DMPZ|28540|20261120|RECLINER ROWS": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
       "time": "03:05 PM",
       "date": "20261120",
       "cat": "RECLINER ROWS",
-      "price": "500.00",
+      "price": "520.00",
       "status": "3"
     },
     "DMPZ|28540|20261120|PRIME PLUS SOFA ROWS": {
@@ -117,16 +29,8 @@
       "time": "03:05 PM",
       "date": "20261120",
       "cat": "PRIME PLUS SOFA ROWS",
-      "price": "330.00",
-      "status": "3"
-    },
-    "DMPZ|28540|20261120|PICTURE PERFECT": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "03:05 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "280.00",
-      "status": "3"
+      "price": "370.00",
+      "status": "2"
     },
     "DMPZ|28540|20261120|PRIME PLUS ROWS": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -135,6 +39,14 @@
       "cat": "PRIME PLUS ROWS",
       "price": "280.00",
       "status": "3"
+    },
+    "DMPZ|28540|20261120|PICTURE PERFECT": {
+      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
+      "time": "03:05 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
+      "price": "280.00",
+      "status": "2"
     },
     "DMPZ|28540|20261120|PRIME ROWS": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
@@ -216,19 +128,19 @@
       "price": "330.00",
       "status": "3"
     },
-    "DMPZ|28542|20261120|PRIME PLUS ROWS": {
-      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
-      "time": "10:55 PM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
     "DMPZ|28542|20261120|PICTURE PERFECT": {
       "venue": "PVR: Diamond Plaza, Jessore Kolkata",
       "time": "10:55 PM",
       "date": "20261120",
       "cat": "PICTURE PERFECT",
+      "price": "280.00",
+      "status": "3"
+    },
+    "DMPZ|28542|20261120|PRIME PLUS ROWS": {
+      "venue": "PVR: Diamond Plaza, Jessore Kolkata",
+      "time": "10:55 PM",
+      "date": "20261120",
+      "cat": "PRIME PLUS ROWS",
       "price": "280.00",
       "status": "3"
     },
@@ -288,78 +200,6 @@
       "price": "250.00",
       "status": "3"
     },
-    "CLMK|8673|20261120|NORMAL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "08:30 AM",
-      "date": "20261120",
-      "cat": "NORMAL",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CLMK|8673|20261120|EXECUTIVE": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "08:30 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
-    "CLMK|8673|20261120|PREMIUM XL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "08:30 AM",
-      "date": "20261120",
-      "cat": "PREMIUM XL",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CLMK|8673|20261120|PREMIUM": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "08:30 AM",
-      "date": "20261120",
-      "cat": "PREMIUM",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CLMK|8673|20261120|RECLINER": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "08:30 AM",
-      "date": "20261120",
-      "cat": "RECLINER",
-      "price": "700.00",
-      "status": "3"
-    },
-    "CLMK|8673|20261120|PREMIUM PLUS": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "08:30 AM",
-      "date": "20261120",
-      "cat": "PREMIUM PLUS",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CLMK|8678|20261120|NORMAL": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "NORMAL",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CLMK|8678|20261120|EXECUTIVE": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
-    "CLMK|8678|20261120|PREMIUM": {
-      "venue": "Cinepolis: Lake Mall, Kolkata",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "PREMIUM",
-      "price": "280.00",
-      "status": "3"
-    },
     "CLMK|8694|20261120|NORMAL": {
       "venue": "Cinepolis: Lake Mall, Kolkata",
       "time": "06:30 PM",
@@ -384,46 +224,6 @@
       "price": "420.00",
       "status": "3"
     },
-    "INRK|99238|20261120|RECLINER ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "RECLINER ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
-    "INRK|99238|20261120|PRIME PLUS ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "180.00",
-      "status": "3"
-    },
-    "INRK|99238|20261120|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "170.00",
-      "status": "3"
-    },
-    "INRK|99238|20261120|PRIME ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
-    "INRK|99238|20261120|CLASSIC ROWS": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "11:10 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "150.00",
-      "status": "3"
-    },
     "INRK|99239|20261120|RECLINER ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "03:05 PM",
@@ -440,19 +240,19 @@
       "price": "270.00",
       "status": "3"
     },
-    "INRK|99239|20261120|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "03:05 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "260.00",
-      "status": "3"
-    },
     "INRK|99239|20261120|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "03:05 PM",
       "date": "20261120",
       "cat": "PRIME ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "INRK|99239|20261120|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "03:05 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
       "price": "260.00",
       "status": "3"
     },
@@ -480,19 +280,19 @@
       "price": "270.00",
       "status": "3"
     },
-    "INRK|99240|20261120|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "07:00 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "260.00",
-      "status": "3"
-    },
     "INRK|99240|20261120|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "07:00 PM",
       "date": "20261120",
       "cat": "PRIME ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "INRK|99240|20261120|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "07:00 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
       "price": "260.00",
       "status": "3"
     },
@@ -520,14 +320,6 @@
       "price": "270.00",
       "status": "3"
     },
-    "INRK|99241|20261120|PICTURE PERFECT": {
-      "venue": "INOX: City Centre II, Rajarhat",
-      "time": "10:55 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "260.00",
-      "status": "3"
-    },
     "INRK|99241|20261120|PRIME ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:55 PM",
@@ -536,35 +328,19 @@
       "price": "260.00",
       "status": "3"
     },
+    "INRK|99241|20261120|PICTURE PERFECT": {
+      "venue": "INOX: City Centre II, Rajarhat",
+      "time": "10:55 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
+      "price": "260.00",
+      "status": "3"
+    },
     "INRK|99241|20261120|CLASSIC ROWS": {
       "venue": "INOX: City Centre II, Rajarhat",
       "time": "10:55 PM",
       "date": "20261120",
       "cat": "CLASSIC ROWS",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CAML|7938|20261120|NORMAL": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "10:15 AM",
-      "date": "20261120",
-      "cat": "NORMAL",
-      "price": "200.00",
-      "status": "3"
-    },
-    "CAML|7938|20261120|EXECUTIVE": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "10:15 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE",
-      "price": "220.00",
-      "status": "3"
-    },
-    "CAML|7938|20261120|PREMIUM": {
-      "venue": "Cinepolis: Acropolis Mall, Kolkata",
-      "time": "10:15 AM",
-      "date": "20261120",
-      "cat": "PREMIUM",
       "price": "240.00",
       "status": "3"
     },
@@ -640,30 +416,6 @@
       "price": "320.00",
       "status": "3"
     },
-    "MSMA|23873|20261120|RECLINER": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "RECLINER",
-      "price": "490.00",
-      "status": "3"
-    },
-    "MSMA|23873|20261120|PRIME": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "PRIME",
-      "price": "210.00",
-      "status": "3"
-    },
-    "MSMA|23873|20261120|CLASSIC": {
-      "venue": "PVR: Mani Square Mall, Kolkata",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "CLASSIC",
-      "price": "180.00",
-      "status": "3"
-    },
     "MSMA|23874|20261120|RECLINER": {
       "venue": "PVR: Mani Square Mall, Kolkata",
       "time": "10:55 PM",
@@ -712,30 +464,6 @@
       "price": "99.00",
       "status": "3"
     },
-    "MCKK|51680|20261120|SPECIAL": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "09:45 AM",
-      "date": "20261120",
-      "cat": "SPECIAL",
-      "price": "180.00",
-      "status": "3"
-    },
-    "MCKK|51680|20261120|EXECUTIVE": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "09:45 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE",
-      "price": "180.00",
-      "status": "3"
-    },
-    "MCKK|51680|20261120|RECLINER": {
-      "venue": "Miraj Cinemas: The Terminus, New Town",
-      "time": "09:45 AM",
-      "date": "20261120",
-      "cat": "RECLINER",
-      "price": "300.00",
-      "status": "3"
-    },
     "MCKK|51672|20261120|RECLINER": {
       "venue": "Miraj Cinemas: The Terminus, New Town",
       "time": "10:45 PM",
@@ -758,38 +486,6 @@
       "date": "20261120",
       "cat": "SPECIAL",
       "price": "280.00",
-      "status": "3"
-    },
-    "INSL|114271|20261120|PICTURE PERFECT": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:10 AM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "149.00",
-      "status": "3"
-    },
-    "INSL|114271|20261120|PRIME ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:10 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "INSL|114271|20261120|PRIME PLUS ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:10 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "149.00",
-      "status": "3"
-    },
-    "INSL|114271|20261120|CLASSIC ROWS": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "09:10 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "99.00",
       "status": "3"
     },
     "INSL|114272|20261120|PRIME PLUS ROWS": {
@@ -832,19 +528,19 @@
       "price": "340.00",
       "status": "3"
     },
-    "INSL|114273|20261120|PICTURE PERFECT": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "07:20 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "290.00",
-      "status": "3"
-    },
     "INSL|114273|20261120|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "07:20 PM",
       "date": "20261120",
       "cat": "PRIME ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "INSL|114273|20261120|PICTURE PERFECT": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "07:20 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
       "price": "290.00",
       "status": "3"
     },
@@ -864,19 +560,19 @@
       "price": "340.00",
       "status": "3"
     },
-    "INSL|114274|20261120|PICTURE PERFECT": {
-      "venue": "INOX: City Center, Salt Lake",
-      "time": "11:15 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "290.00",
-      "status": "3"
-    },
     "INSL|114274|20261120|PRIME ROWS": {
       "venue": "INOX: City Center, Salt Lake",
       "time": "11:15 PM",
       "date": "20261120",
       "cat": "PRIME ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "INSL|114274|20261120|PICTURE PERFECT": {
+      "venue": "INOX: City Center, Salt Lake",
+      "time": "11:15 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
       "price": "290.00",
       "status": "3"
     },
@@ -886,30 +582,6 @@
       "date": "20261120",
       "cat": "CLASSIC ROWS",
       "price": "99.00",
-      "status": "3"
-    },
-    "IMKN|54102|20261120|PRIME PLUS ROWS": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
-    "IMKN|54102|20261120|PRIME ROWS": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
-    "IMKN|54102|20261120|CLASSIC ROWS": {
-      "venue": "INOX: Star Mall, Madhyamgram",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "150.00",
       "status": "3"
     },
     "IMKN|54103|20261120|PRIME PLUS ROWS": {
@@ -952,84 +624,20 @@
       "price": "300.00",
       "status": "3"
     },
-    "PVAK|21918|20261120|PRIME PLUS SOFA ROWS": {
-      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS SOFA ROWS",
-      "price": "210.00",
-      "status": "3"
-    },
-    "PVAK|21918|20261120|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
-    "PVAK|21918|20261120|PRIME PLUS ROWS": {
-      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "180.00",
-      "status": "3"
-    },
-    "PVAK|21918|20261120|PRIME ROWS": {
-      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
-    "PVAK|21918|20261120|CLASSIC ROWS": {
-      "venue": "PVR: Avani Kolkata (Audi 2-All New 3D Projection)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "INER|97204|20261120|PRIME ROWS": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
-    "INER|97204|20261120|CLASSIC ROWS": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
-    "INER|97204|20261120|PRIME PLUS ROWS": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "199.00",
-      "status": "3"
-    },
-    "INER|97204|20261120|PICTURE PERFECT": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "199.00",
-      "status": "3"
-    },
     "INER|97205|20261120|PRIME PLUS ROWS": {
       "venue": "INOX: Forum Mall, Elgin Road",
       "time": "02:25 PM",
       "date": "20261120",
       "cat": "PRIME PLUS ROWS",
       "price": "330.00",
+      "status": "2"
+    },
+    "INER|97205|20261120|PICTURE PERFECT": {
+      "venue": "INOX: Forum Mall, Elgin Road",
+      "time": "02:25 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
+      "price": "300.00",
       "status": "3"
     },
     "INER|97205|20261120|PRIME ROWS": {
@@ -1037,14 +645,6 @@
       "time": "02:25 PM",
       "date": "20261120",
       "cat": "PRIME ROWS",
-      "price": "300.00",
-      "status": "3"
-    },
-    "INER|97205|20261120|PICTURE PERFECT": {
-      "venue": "INOX: Forum Mall, Elgin Road",
-      "time": "02:25 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
       "price": "300.00",
       "status": "3"
     },
@@ -1062,7 +662,7 @@
       "date": "20261120",
       "cat": "PRIME PLUS ROWS",
       "price": "360.00",
-      "status": "3"
+      "status": "2"
     },
     "INER|97206|20261120|PICTURE PERFECT": {
       "venue": "INOX: Forum Mall, Elgin Road",
@@ -1120,6 +720,38 @@
       "price": "149.00",
       "status": "3"
     },
+    "IFRM|62171|20261120|PRIME PLUS ROWS": {
+      "venue": "INOX: Forum Rangoli Mall, Belur",
+      "time": "10:45 PM",
+      "date": "20261120",
+      "cat": "PRIME PLUS ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "IFRM|62171|20261120|PRIME ROWS": {
+      "venue": "INOX: Forum Rangoli Mall, Belur",
+      "time": "10:45 PM",
+      "date": "20261120",
+      "cat": "PRIME ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "IFRM|62171|20261120|PICTURE PERFECT": {
+      "venue": "INOX: Forum Rangoli Mall, Belur",
+      "time": "10:45 PM",
+      "date": "20261120",
+      "cat": "PICTURE PERFECT",
+      "price": "280.00",
+      "status": "3"
+    },
+    "IFRM|62171|20261120|CLASSIC ROWS": {
+      "venue": "INOX: Forum Rangoli Mall, Belur",
+      "time": "10:45 PM",
+      "date": "20261120",
+      "cat": "CLASSIC ROWS",
+      "price": "99.00",
+      "status": "3"
+    },
     "STKT|11713|20261120|FRONT STALL": {
       "venue": "Binodini Theatre (Star Theatre): Kolkata",
       "time": "04:30 PM",
@@ -1166,70 +798,6 @@
       "date": "20261120",
       "cat": "BALCONY",
       "price": "170.00",
-      "status": "3"
-    },
-    "IFRM|62170|20261120|PRIME PLUS ROWS": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "11:00 AM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
-    "IFRM|62170|20261120|PRIME ROWS": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "11:00 AM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "180.00",
-      "status": "3"
-    },
-    "IFRM|62170|20261120|PICTURE PERFECT": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "11:00 AM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "180.00",
-      "status": "3"
-    },
-    "IFRM|62170|20261120|CLASSIC ROWS": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "11:00 AM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "99.00",
-      "status": "3"
-    },
-    "IFRM|62171|20261120|PRIME PLUS ROWS": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "10:45 PM",
-      "date": "20261120",
-      "cat": "PRIME PLUS ROWS",
-      "price": "290.00",
-      "status": "3"
-    },
-    "IFRM|62171|20261120|PICTURE PERFECT": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "10:45 PM",
-      "date": "20261120",
-      "cat": "PICTURE PERFECT",
-      "price": "280.00",
-      "status": "3"
-    },
-    "IFRM|62171|20261120|PRIME ROWS": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "10:45 PM",
-      "date": "20261120",
-      "cat": "PRIME ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
-    "IFRM|62171|20261120|CLASSIC ROWS": {
-      "venue": "INOX: Forum Rangoli Mall, Belur",
-      "time": "10:45 PM",
-      "date": "20261120",
-      "cat": "CLASSIC ROWS",
-      "price": "99.00",
       "status": "3"
     },
     "INKS|95017|20261120|PRIME PLUS ROWS": {
@@ -1328,22 +896,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "SVNR|43498|20261120|ROYAL RECLINER": {
-      "venue": "SVF Cinemas: Wood Square Mall, Narendrapur",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "ROYAL RECLINER",
-      "price": "350.00",
-      "status": "3"
-    },
-    "SVNR|43498|20261120|ROYAL LOUNGER": {
-      "venue": "SVF Cinemas: Wood Square Mall, Narendrapur",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "ROYAL LOUNGER",
-      "price": "300.00",
-      "status": "3"
-    },
     "SVNR|43499|20261120|ROYAL RECLINER": {
       "venue": "SVF Cinemas: Wood Square Mall, Narendrapur",
       "time": "02:05 PM",
@@ -1366,7 +918,7 @@
       "date": "20261120",
       "cat": "ROYAL RECLINER",
       "price": "400.00",
-      "status": "3"
+      "status": "2"
     },
     "SVNR|43496|20261120|ROYAL LOUNGER": {
       "venue": "SVF Cinemas: Wood Square Mall, Narendrapur",
@@ -1440,30 +992,6 @@
       "price": "160.00",
       "status": "3"
     },
-    "BARA|70819|20261120|SILVER": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "SILVER",
-      "price": "200.00",
-      "status": "3"
-    },
-    "BARA|70819|20261120|GOLD": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "BARA|70819|20261120|PLATINUM": {
-      "venue": "Bioscope: Axis Mall, Rajarhat",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "PLATINUM",
-      "price": "200.00",
-      "status": "0"
-    },
     "BARA|70820|20261120|SILVER": {
       "venue": "Bioscope: Axis Mall, Rajarhat",
       "time": "02:00 PM",
@@ -1536,19 +1064,35 @@
       "price": "200.00",
       "status": "0"
     },
-    "RTHK|5766|20261120|GOLD": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "10:30 AM",
+    "EMCI|3305|20261120|SILVER": {
+      "venue": "Elora Multiplex: Champahati",
+      "time": "03:00 PM",
       "date": "20261120",
-      "cat": "GOLD",
-      "price": "250.00",
+      "cat": "SILVER",
+      "price": "150.00",
       "status": "3"
     },
-    "RTHK|5766|20261120|EXECUTIVE": {
-      "venue": "Rathindra Multiplex: Sodepur",
-      "time": "10:30 AM",
+    "EMCI|3305|20261120|GOLD": {
+      "venue": "Elora Multiplex: Champahati",
+      "time": "03:00 PM",
       "date": "20261120",
-      "cat": "EXECUTIVE",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "EMCI|3306|20261120|SILVER": {
+      "venue": "Elora Multiplex: Champahati",
+      "time": "06:30 PM",
+      "date": "20261120",
+      "cat": "SILVER",
+      "price": "150.00",
+      "status": "3"
+    },
+    "EMCI|3306|20261120|GOLD": {
+      "venue": "Elora Multiplex: Champahati",
+      "time": "06:30 PM",
+      "date": "20261120",
+      "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
@@ -1616,30 +1160,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "MCSL|20275|20261120|SILVER": {
-      "venue": "Miraj Cinemas: Downtown Mall, Salt Lake",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "SILVER",
-      "price": "160.00",
-      "status": "3"
-    },
-    "MCSL|20275|20261120|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Downtown Mall, Salt Lake",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE",
-      "price": "180.00",
-      "status": "3"
-    },
-    "MCSL|20275|20261120|GOLD": {
-      "venue": "Miraj Cinemas: Downtown Mall, Salt Lake",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
     "MCSL|20276|20261120|SILVER": {
       "venue": "Miraj Cinemas: Downtown Mall, Salt Lake",
       "time": "10:25 PM",
@@ -1664,76 +1184,36 @@
       "price": "250.00",
       "status": "3"
     },
-    "EMCI|3304|20261120|SILVER": {
-      "venue": "Elora Multiplex: Champahati",
-      "time": "11:30 AM",
+    "SSRL|17812|20261120|SILVER": {
+      "venue": "SSR Cinemas: Maheshtala",
+      "time": "12:30 PM",
       "date": "20261120",
       "cat": "SILVER",
-      "price": "150.00",
+      "price": "160.00",
       "status": "3"
     },
-    "EMCI|3304|20261120|GOLD": {
-      "venue": "Elora Multiplex: Champahati",
-      "time": "11:30 AM",
+    "SSRL|17812|20261120|GOLD": {
+      "venue": "SSR Cinemas: Maheshtala",
+      "time": "12:30 PM",
       "date": "20261120",
       "cat": "GOLD",
-      "price": "200.00",
+      "price": "160.00",
       "status": "3"
     },
-    "EMCI|3305|20261120|SILVER": {
-      "venue": "Elora Multiplex: Champahati",
-      "time": "03:00 PM",
+    "SSRL|17813|20261120|SILVER": {
+      "venue": "SSR Cinemas: Maheshtala",
+      "time": "05:45 PM",
       "date": "20261120",
       "cat": "SILVER",
-      "price": "150.00",
+      "price": "180.00",
       "status": "3"
     },
-    "EMCI|3305|20261120|GOLD": {
-      "venue": "Elora Multiplex: Champahati",
-      "time": "03:00 PM",
+    "SSRL|17813|20261120|GOLD": {
+      "venue": "SSR Cinemas: Maheshtala",
+      "time": "05:45 PM",
       "date": "20261120",
       "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "EMCI|3306|20261120|SILVER": {
-      "venue": "Elora Multiplex: Champahati",
-      "time": "06:30 PM",
-      "date": "20261120",
-      "cat": "SILVER",
-      "price": "150.00",
-      "status": "3"
-    },
-    "EMCI|3306|20261120|GOLD": {
-      "venue": "Elora Multiplex: Champahati",
-      "time": "06:30 PM",
-      "date": "20261120",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "SSGK|12005|20261120|REGULAR": {
-      "venue": "SSR Globe Cinemas: New Market, Kolkata",
-      "time": "10:00 AM",
-      "date": "20261120",
-      "cat": "REGULAR",
-      "price": "130.00",
-      "status": "3"
-    },
-    "SSGK|12005|20261120|EXECUTIVE": {
-      "venue": "SSR Globe Cinemas: New Market, Kolkata",
-      "time": "10:00 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE",
-      "price": "130.00",
-      "status": "3"
-    },
-    "SSGK|12005|20261120|ROYAL": {
-      "venue": "SSR Globe Cinemas: New Market, Kolkata",
-      "time": "10:00 AM",
-      "date": "20261120",
-      "cat": "ROYAL",
-      "price": "130.00",
+      "price": "180.00",
       "status": "3"
     },
     "SSGK|12007|20261120|REGULAR": {
@@ -1758,70 +1238,6 @@
       "date": "20261120",
       "cat": "ROYAL",
       "price": "149.00",
-      "status": "3"
-    },
-    "SFCR|12727|20261120|PLATINUM": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "09:45 AM",
-      "date": "20261120",
-      "cat": "PLATINUM",
-      "price": "130.00",
-      "status": "3"
-    },
-    "SFCR|12727|20261120|DIAMOND": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "09:45 AM",
-      "date": "20261120",
-      "cat": "DIAMOND",
-      "price": "140.00",
-      "status": "3"
-    },
-    "SFCR|12727|20261120|ROYAL": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "09:45 AM",
-      "date": "20261120",
-      "cat": "ROYAL",
-      "price": "250.00",
-      "status": "2"
-    },
-    "SFCR|12727|20261120|GOLD": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "09:45 AM",
-      "date": "20261120",
-      "cat": "GOLD",
-      "price": "100.00",
-      "status": "3"
-    },
-    "SFCR|12728|20261120|PLATINUM": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "12:00 PM",
-      "date": "20261120",
-      "cat": "PLATINUM",
-      "price": "130.00",
-      "status": "3"
-    },
-    "SFCR|12728|20261120|DIAMOND": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "12:00 PM",
-      "date": "20261120",
-      "cat": "DIAMOND",
-      "price": "140.00",
-      "status": "3"
-    },
-    "SFCR|12728|20261120|ROYAL": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "12:00 PM",
-      "date": "20261120",
-      "cat": "ROYAL",
-      "price": "250.00",
-      "status": "2"
-    },
-    "SFCR|12728|20261120|GOLD": {
-      "venue": "SVF Cinemas: Platina Mall, Howrah",
-      "time": "12:00 PM",
-      "date": "20261120",
-      "cat": "GOLD",
-      "price": "100.00",
       "status": "3"
     },
     "SFCR|12729|20261120|PLATINUM": {
@@ -1920,36 +1336,44 @@
       "price": "100.00",
       "status": "3"
     },
-    "SSRL|17812|20261120|SILVER": {
-      "venue": "SSR Cinemas: Maheshtala",
-      "time": "12:30 PM",
+    "SVFB|23104|20261120|GOLD": {
+      "venue": "SVF Cinemas: Baruipur Show House, Baruipur",
+      "time": "03:30 PM",
       "date": "20261120",
-      "cat": "SILVER",
+      "cat": "GOLD",
+      "price": "180.00",
+      "status": "3"
+    },
+    "SVFB|23104|20261120|PLATINUM": {
+      "venue": "SVF Cinemas: Baruipur Show House, Baruipur",
+      "time": "03:30 PM",
+      "date": "20261120",
+      "cat": "PLATINUM",
+      "price": "230.00",
+      "status": "3"
+    },
+    "ACNB|50686|20261120|DIAMOND": {
+      "venue": "SSR Cinemas, Suncity Mall: Barasat",
+      "time": "01:30 PM",
+      "date": "20261120",
+      "cat": "DIAMOND",
       "price": "160.00",
       "status": "3"
     },
-    "SSRL|17812|20261120|GOLD": {
-      "venue": "SSR Cinemas: Maheshtala",
-      "time": "12:30 PM",
+    "ACNB|50686|20261120|GOLD": {
+      "venue": "SSR Cinemas, Suncity Mall: Barasat",
+      "time": "01:30 PM",
       "date": "20261120",
       "cat": "GOLD",
       "price": "160.00",
       "status": "3"
     },
-    "SSRL|17813|20261120|SILVER": {
-      "venue": "SSR Cinemas: Maheshtala",
-      "time": "05:45 PM",
+    "ACNB|50686|20261120|SILVER": {
+      "venue": "SSR Cinemas, Suncity Mall: Barasat",
+      "time": "01:30 PM",
       "date": "20261120",
       "cat": "SILVER",
-      "price": "180.00",
-      "status": "3"
-    },
-    "SSRL|17813|20261120|GOLD": {
-      "venue": "SSR Cinemas: Maheshtala",
-      "time": "05:45 PM",
-      "date": "20261120",
-      "cat": "GOLD",
-      "price": "180.00",
+      "price": "160.00",
       "status": "3"
     },
     "ACNB|50651|20261120|DIAMOND": {
@@ -2024,44 +1448,36 @@
       "price": "350.00",
       "status": "3"
     },
-    "SVFB|23104|20261120|GOLD": {
-      "venue": "SVF Cinemas: Baruipur Show House, Baruipur",
-      "time": "03:30 PM",
+    "JMJR|26866|20261120|Dress Circle": {
+      "venue": "Jaya Cinemas: City Mall, Barasat",
+      "time": "02:45 PM",
       "date": "20261120",
-      "cat": "GOLD",
+      "cat": "Dress Circle",
       "price": "180.00",
       "status": "3"
     },
-    "SVFB|23104|20261120|PLATINUM": {
-      "venue": "SVF Cinemas: Baruipur Show House, Baruipur",
-      "time": "03:30 PM",
+    "JMJR|26866|20261120|Rear Stall": {
+      "venue": "Jaya Cinemas: City Mall, Barasat",
+      "time": "02:45 PM",
       "date": "20261120",
-      "cat": "PLATINUM",
-      "price": "230.00",
+      "cat": "Rear Stall",
+      "price": "160.00",
       "status": "3"
     },
-    "INHD|42196|20261120|SILVER": {
-      "venue": "Hind INOX: Kolkata",
-      "time": "10:30 AM",
+    "JMJR|26867|20261120|Dress Circle": {
+      "venue": "Jaya Cinemas: City Mall, Barasat",
+      "time": "06:20 PM",
       "date": "20261120",
-      "cat": "SILVER",
-      "price": "240.00",
+      "cat": "Dress Circle",
+      "price": "180.00",
       "status": "3"
     },
-    "INHD|42196|20261120|PREMIUM": {
-      "venue": "Hind INOX: Kolkata",
-      "time": "10:30 AM",
+    "JMJR|26867|20261120|Rear Stall": {
+      "venue": "Jaya Cinemas: City Mall, Barasat",
+      "time": "06:20 PM",
       "date": "20261120",
-      "cat": "PREMIUM",
-      "price": "190.00",
-      "status": "3"
-    },
-    "INHD|42196|20261120|EXECUTIVE": {
-      "venue": "Hind INOX: Kolkata",
-      "time": "10:30 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE",
-      "price": "190.00",
+      "cat": "Rear Stall",
+      "price": "160.00",
       "status": "3"
     },
     "INHD|42197|20261120|SILVER": {
@@ -2134,86 +1550,6 @@
       "date": "20261120",
       "cat": "EXECUTIVE",
       "price": "220.00",
-      "status": "3"
-    },
-    "JMJR|26865|20261120|Dress Circle": {
-      "venue": "Jaya Cinemas: City Mall, Barasat",
-      "time": "11:00 AM",
-      "date": "20261120",
-      "cat": "Dress Circle",
-      "price": "160.00",
-      "status": "3"
-    },
-    "JMJR|26865|20261120|Rear Stall": {
-      "venue": "Jaya Cinemas: City Mall, Barasat",
-      "time": "11:00 AM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "140.00",
-      "status": "3"
-    },
-    "JMJR|26866|20261120|Dress Circle": {
-      "venue": "Jaya Cinemas: City Mall, Barasat",
-      "time": "02:45 PM",
-      "date": "20261120",
-      "cat": "Dress Circle",
-      "price": "180.00",
-      "status": "3"
-    },
-    "JMJR|26866|20261120|Rear Stall": {
-      "venue": "Jaya Cinemas: City Mall, Barasat",
-      "time": "02:45 PM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "160.00",
-      "status": "3"
-    },
-    "JMJR|26867|20261120|Dress Circle": {
-      "venue": "Jaya Cinemas: City Mall, Barasat",
-      "time": "06:20 PM",
-      "date": "20261120",
-      "cat": "Dress Circle",
-      "price": "180.00",
-      "status": "3"
-    },
-    "JMJR|26867|20261120|Rear Stall": {
-      "venue": "Jaya Cinemas: City Mall, Barasat",
-      "time": "06:20 PM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "160.00",
-      "status": "3"
-    },
-    "JYKL|19280|20261120|DELUX": {
-      "venue": "Jayanti Cinema: Barrackpore",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "DELUX",
-      "price": "150.00",
-      "status": "3"
-    },
-    "JYKL|19280|20261120|GOLDEN CLASS": {
-      "venue": "Jayanti Cinema: Barrackpore",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "GOLDEN CLASS",
-      "price": "350.00",
-      "status": "3"
-    },
-    "JYKL|19280|20261120|EXECUTIVE CLASS\t\t": {
-      "venue": "Jayanti Cinema: Barrackpore",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "EXECUTIVE CLASS\t\t",
-      "price": "200.00",
-      "status": "3"
-    },
-    "JYKL|19280|20261120|ECONOMY": {
-      "venue": "Jayanti Cinema: Barrackpore",
-      "time": "09:00 AM",
-      "date": "20261120",
-      "cat": "ECONOMY",
-      "price": "100.00",
       "status": "3"
     },
     "JYKL|19273|20261120|GOLDEN CLASS": {
@@ -2448,6 +1784,38 @@
       "price": "130.00",
       "status": "3"
     },
+    "BASU|6076|20261120|Rear Stall": {
+      "venue": "Basusree Cinema: Kolkata",
+      "time": "03:15 PM",
+      "date": "20261120",
+      "cat": "Rear Stall",
+      "price": "100.00",
+      "status": "3"
+    },
+    "BASU|6076|20261120|Balcony": {
+      "venue": "Basusree Cinema: Kolkata",
+      "time": "03:15 PM",
+      "date": "20261120",
+      "cat": "Balcony",
+      "price": "150.00",
+      "status": "3"
+    },
+    "BASU|6077|20261120|Rear Stall": {
+      "venue": "Basusree Cinema: Kolkata",
+      "time": "06:45 PM",
+      "date": "20261120",
+      "cat": "Rear Stall",
+      "price": "100.00",
+      "status": "3"
+    },
+    "BASU|6077|20261120|Balcony": {
+      "venue": "Basusree Cinema: Kolkata",
+      "time": "06:45 PM",
+      "date": "20261120",
+      "cat": "Balcony",
+      "price": "150.00",
+      "status": "3"
+    },
     "RDCQ|1115|20261120|PLATINUM": {
       "venue": "Rupmandir Cinema: Belghoria",
       "time": "01:15 PM",
@@ -2496,166 +1864,6 @@
       "price": "100.00",
       "status": "3"
     },
-    "BASU|6075|20261120|Rear Stall": {
-      "venue": "Basusree Cinema: Kolkata",
-      "time": "11:45 AM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "100.00",
-      "status": "3"
-    },
-    "BASU|6075|20261120|Balcony": {
-      "venue": "Basusree Cinema: Kolkata",
-      "time": "11:45 AM",
-      "date": "20261120",
-      "cat": "Balcony",
-      "price": "150.00",
-      "status": "3"
-    },
-    "BASU|6076|20261120|Rear Stall": {
-      "venue": "Basusree Cinema: Kolkata",
-      "time": "03:15 PM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "100.00",
-      "status": "3"
-    },
-    "BASU|6076|20261120|Balcony": {
-      "venue": "Basusree Cinema: Kolkata",
-      "time": "03:15 PM",
-      "date": "20261120",
-      "cat": "Balcony",
-      "price": "150.00",
-      "status": "3"
-    },
-    "BASU|6077|20261120|Rear Stall": {
-      "venue": "Basusree Cinema: Kolkata",
-      "time": "06:45 PM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "100.00",
-      "status": "3"
-    },
-    "BASU|6077|20261120|Balcony": {
-      "venue": "Basusree Cinema: Kolkata",
-      "time": "06:45 PM",
-      "date": "20261120",
-      "cat": "Balcony",
-      "price": "150.00",
-      "status": "3"
-    },
-    "AMLC|16146|20261120|Rear Stall (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "Rear Stall (AC)",
-      "price": "80.00",
-      "status": "3"
-    },
-    "AMLC|16146|20261120|Balcony (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "Balcony (AC)",
-      "price": "100.00",
-      "status": "3"
-    },
-    "AMLC|16146|20261120|DC (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "09:30 AM",
-      "date": "20261120",
-      "cat": "DC (AC)",
-      "price": "250.00",
-      "status": "3"
-    },
-    "AMLC|16167|20261120|Balcony (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "01:00 PM",
-      "date": "20261120",
-      "cat": "Balcony (AC)",
-      "price": "100.00",
-      "status": "3"
-    },
-    "AMLC|16167|20261120|DC (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "01:00 PM",
-      "date": "20261120",
-      "cat": "DC (AC)",
-      "price": "250.00",
-      "status": "3"
-    },
-    "AMLC|16167|20261120|Rear Stall (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "01:00 PM",
-      "date": "20261120",
-      "cat": "Rear Stall (AC)",
-      "price": "80.00",
-      "status": "3"
-    },
-    "AMLC|16160|20261120|Balcony (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "04:30 PM",
-      "date": "20261120",
-      "cat": "Balcony (AC)",
-      "price": "100.00",
-      "status": "3"
-    },
-    "AMLC|16160|20261120|DC (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "04:30 PM",
-      "date": "20261120",
-      "cat": "DC (AC)",
-      "price": "250.00",
-      "status": "3"
-    },
-    "AMLC|16160|20261120|Rear Stall (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "04:30 PM",
-      "date": "20261120",
-      "cat": "Rear Stall (AC)",
-      "price": "80.00",
-      "status": "3"
-    },
-    "AMLC|16153|20261120|DC (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "08:00 PM",
-      "date": "20261120",
-      "cat": "DC (AC)",
-      "price": "250.00",
-      "status": "3"
-    },
-    "AMLC|16153|20261120|Rear Stall (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "08:00 PM",
-      "date": "20261120",
-      "cat": "Rear Stall (AC)",
-      "price": "80.00",
-      "status": "3"
-    },
-    "AMLC|16153|20261120|Balcony (AC)": {
-      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
-      "time": "08:00 PM",
-      "date": "20261120",
-      "cat": "Balcony (AC)",
-      "price": "100.00",
-      "status": "3"
-    },
-    "UDMM|12407|20261120|Balcony": {
-      "venue": "Utpal Dutta Mancha: Maheshtala",
-      "time": "12:00 PM",
-      "date": "20261120",
-      "cat": "Balcony",
-      "price": "200.00",
-      "status": "3"
-    },
-    "UDMM|12407|20261120|Rear Stall": {
-      "venue": "Utpal Dutta Mancha: Maheshtala",
-      "time": "12:00 PM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "150.00",
-      "status": "3"
-    },
     "UDMM|12400|20261120|Balcony": {
       "venue": "Utpal Dutta Mancha: Maheshtala",
       "time": "03:30 PM",
@@ -2688,28 +1896,60 @@
       "price": "150.00",
       "status": "3"
     },
-    "PMAC|23100|20261120|Balcony": {
-      "venue": "Padma Cinema: Kolkata",
-      "time": "12:15 PM",
+    "AMLC|16160|20261120|Rear Stall (AC)": {
+      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
+      "time": "04:30 PM",
       "date": "20261120",
-      "cat": "Balcony",
-      "price": "110.00",
+      "cat": "Rear Stall (AC)",
+      "price": "80.00",
       "status": "3"
     },
-    "PMAC|23100|20261120|Dress Circle AC": {
+    "AMLC|16160|20261120|Balcony (AC)": {
+      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
+      "time": "04:30 PM",
+      "date": "20261120",
+      "cat": "Balcony (AC)",
+      "price": "100.00",
+      "status": "3"
+    },
+    "AMLC|16160|20261120|DC (AC)": {
+      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
+      "time": "04:30 PM",
+      "date": "20261120",
+      "cat": "DC (AC)",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AMLC|16153|20261120|Balcony (AC)": {
+      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
+      "time": "08:00 PM",
+      "date": "20261120",
+      "cat": "Balcony (AC)",
+      "price": "100.00",
+      "status": "3"
+    },
+    "AMLC|16153|20261120|DC (AC)": {
+      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
+      "time": "08:00 PM",
+      "date": "20261120",
+      "cat": "DC (AC)",
+      "price": "250.00",
+      "status": "3"
+    },
+    "AMLC|16153|20261120|Rear Stall (AC)": {
+      "venue": "Amala Cinema: Barrackpore (AC Dolby Atmos)",
+      "time": "08:00 PM",
+      "date": "20261120",
+      "cat": "Rear Stall (AC)",
+      "price": "80.00",
+      "status": "3"
+    },
+    "PMAC|23086|20261120|Dress Circle AC": {
       "venue": "Padma Cinema: Kolkata",
-      "time": "12:15 PM",
+      "time": "03:45 PM",
       "date": "20261120",
       "cat": "Dress Circle AC",
       "price": "130.00",
-      "status": "3"
-    },
-    "PMAC|23100|20261120|Rear Stall": {
-      "venue": "Padma Cinema: Kolkata",
-      "time": "12:15 PM",
-      "date": "20261120",
-      "cat": "Rear Stall",
-      "price": "100.00",
       "status": "3"
     },
     "PMAC|23086|20261120|Rear Stall": {
@@ -2728,9 +1968,9 @@
       "price": "110.00",
       "status": "3"
     },
-    "PMAC|23086|20261120|Dress Circle AC": {
+    "PMAC|23093|20261120|Dress Circle AC": {
       "venue": "Padma Cinema: Kolkata",
-      "time": "03:45 PM",
+      "time": "07:15 PM",
       "date": "20261120",
       "cat": "Dress Circle AC",
       "price": "130.00",
@@ -2752,22 +1992,6 @@
       "price": "110.00",
       "status": "3"
     },
-    "PMAC|23093|20261120|Dress Circle AC": {
-      "venue": "Padma Cinema: Kolkata",
-      "time": "07:15 PM",
-      "date": "20261120",
-      "cat": "Dress Circle AC",
-      "price": "130.00",
-      "status": "3"
-    },
-    "LICL|17707|20261120|Balcony": {
-      "venue": "Lila Cinema: Baruipur",
-      "time": "12:00 PM",
-      "date": "20261120",
-      "cat": "Balcony",
-      "price": "60.00",
-      "status": "3"
-    },
     "LICL|17693|20261120|Balcony": {
       "venue": "Lila Cinema: Baruipur",
       "time": "03:30 PM",
@@ -2782,6 +2006,78 @@
       "date": "20261120",
       "cat": "Balcony",
       "price": "60.00",
+      "status": "3"
+    },
+    "STBZ|17542|20261120|Balcony.": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "12:00 PM",
+      "date": "20261120",
+      "cat": "Balcony.",
+      "price": "100.00",
+      "status": "3"
+    },
+    "STBZ|17542|20261120|Rear Stall.": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "12:00 PM",
+      "date": "20261120",
+      "cat": "Rear Stall.",
+      "price": "100.00",
+      "status": "3"
+    },
+    "STBZ|17542|20261120|AC Couple Class": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "12:00 PM",
+      "date": "20261120",
+      "cat": "AC Couple Class",
+      "price": "300.00",
+      "status": "3"
+    },
+    "STBZ|17535|20261120|Balcony.": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "03:20 PM",
+      "date": "20261120",
+      "cat": "Balcony.",
+      "price": "100.00",
+      "status": "3"
+    },
+    "STBZ|17535|20261120|Rear Stall.": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "03:20 PM",
+      "date": "20261120",
+      "cat": "Rear Stall.",
+      "price": "100.00",
+      "status": "3"
+    },
+    "STBZ|17535|20261120|AC Couple Class": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "03:20 PM",
+      "date": "20261120",
+      "cat": "AC Couple Class",
+      "price": "300.00",
+      "status": "3"
+    },
+    "STBZ|17549|20261120|Rear Stall.": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "06:45 PM",
+      "date": "20261120",
+      "cat": "Rear Stall.",
+      "price": "100.00",
+      "status": "3"
+    },
+    "STBZ|17549|20261120|AC Couple Class": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "06:45 PM",
+      "date": "20261120",
+      "cat": "AC Couple Class",
+      "price": "300.00",
+      "status": "3"
+    },
+    "STBZ|17549|20261120|Balcony.": {
+      "venue": "Sobha Talkies: Betberia",
+      "time": "06:45 PM",
+      "date": "20261120",
+      "cat": "Balcony.",
+      "price": "100.00",
       "status": "3"
     }
   },
